@@ -1,0 +1,11 @@
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\bin\Debug\netcoreapp3.0\digersAndFliers.exe
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\bin\Debug\netcoreapp3.0\digersAndFliers.deps.json
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\bin\Debug\netcoreapp3.0\digersAndFliers.runtimeconfig.json
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\bin\Debug\netcoreapp3.0\digersAndFliers.runtimeconfig.dev.json
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\bin\Debug\netcoreapp3.0\digersAndFliers.dll
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\bin\Debug\netcoreapp3.0\digersAndFliers.pdb
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\obj\Debug\netcoreapp3.0\digersAndFliers.csprojAssemblyReference.cache
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\obj\Debug\netcoreapp3.0\digersAndFliers.AssemblyInfoInputs.cache
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\obj\Debug\netcoreapp3.0\digersAndFliers.AssemblyInfo.cs
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\obj\Debug\netcoreapp3.0\digersAndFliers.dll
+C:\Users\kelly\workspace\csharp\exercises\digersAndFliers\obj\Debug\netcoreapp3.0\digersAndFliers.pdb
